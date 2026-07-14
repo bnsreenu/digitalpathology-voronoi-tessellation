@@ -1,6 +1,6 @@
 # Voronoi tessellation for tissue architecture quantification in H&E
 
-Part of the **Digital Pathology** playlist on the [DigitalSreeni YouTube channel](https://www.youtube.com/@DigitalSreeni).
+Part of the **Digital Pathology** playlist on the [DigitalSreeni YouTube channel](https://www.youtube.com/playlist?list=PLaQQDlAjBge0).
 
 This tutorial uses Voronoi tessellation to partition H&E tissue into exclusive cell territories and quantify tissue architecture from the resulting region geometry. Each cell owns the space closer to it than to any other cell. Coloring those regions by cell type gives an immediate visual partition of the tissue into tumor, immune, and stromal zones — no explicit segmentation, no deep learning, no special staining.
 
